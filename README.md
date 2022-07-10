@@ -1,10 +1,10 @@
  ## <img src="https://github.com/extremecode716/extremecode716/blob/main/giphy.gif" width=75 height=75> Hello!
  
-Hi, I'm a backend developer. I was originally a game software developer. But I am trying to become a full-stack developer because I am curious and want to learn various things. 
+I have more than 7 years of experience in developing and designing full stack web applications. I love building fully responsive, fast, secure and SEO optimized websites, user friendly interfaces and overall beautiful applications.
 
 
 ### 🤝Profile & Contact
-[![More](https://img.shields.io/badge/info-Extreme%20Code-informational?style=for-the-badge&logoColor=white&color=000000&labelColor=blue)](https://github.com/extremecode716/ExtremeCode-Skills) [![](https://img.shields.io/badge/Gmail-informational?style=for-the-badge&logo=Gmail&logoColor=white&color=000000&labelColor=EA4335&link=mailto:extremecode716@gmail.com)](mailto:extremecode716@gmail.com)
+[![More](https://img.shields.io/badge/info-Extreme%20Code-informational?style=for-the-badge&logoColor=white&color=000000&labelColor=blue)](https://github.com/extremecode716/ExtremeCode-Skills) [![](https://img.shields.io/badge/Gmail-informational?style=for-the-badge&logo=Gmail&logoColor=white&color=000000&labelColor=EA4335&link=mailto:extremecode716@gmail.com)](mailto:powermajesty.pm@gmail.com)
 
 ### 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-C-informational?style=flat-square&logo=c&logoColor=white&color=A8B9CC)
