@@ -47,4 +47,4 @@ I have more than 7 years of experience in developing and designing full stack we
 
 ### 🏆 GitHub Stats
 ![trophy](https://github-profile-trophy.vercel.app/?username=extremecode716&column=3&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=juicyfresh)   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fextremecode716&count_bg=%2379C83D&title_bg=%23555555&icon=git.svg&icon_color=%23E4FF34&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) ![GitHub User's stars](https://img.shields.io/github/stars/extremecode716?style=social) ![GitHub followers](https://img.shields.io/github/followers/extremecode716?style=social)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fextremecode716&count_bg=%2379C83D&title_bg=%23555555&icon=git.svg&icon_color=%23E4FF34&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) ![GitHub User's stars](77) ![GitHub followers](https://img.shields.io/github/followers/extremecode716?style=social)
