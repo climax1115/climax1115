@@ -4,7 +4,7 @@ I have more than 7 years of experience in developing and designing full stack we
 
 
 ### 🤝Profile & Contact
-[![More]() [![](https://img.shields.io/badge/Gmail-informational?style=for-the-badge&logo=Gmail&logoColor=white&color=000000&labelColor=EA4335&link=mailto:extremecode716@gmail.com)](mailto:powermajesty.pm@gmail.com)
+ [![](https://img.shields.io/badge/Gmail-informational?style=for-the-badge&logo=Gmail&logoColor=white&color=000000&labelColor=EA4335&link=mailto:extremecode716@gmail.com)](mailto:powermajesty.pm@gmail.com)
 
 ### 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-C-informational?style=flat-square&logo=c&logoColor=white&color=A8B9CC)
